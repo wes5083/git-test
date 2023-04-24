@@ -17,5 +17,3 @@
 ## git push -u origin main
 
 ## git branch -M main
-
-haha
